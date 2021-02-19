@@ -1,5 +1,9 @@
-# [AMXX] MP3 Player v1.0
-This is a plugin for AMXX which allows you to play uploaded online mp3 files to one or all players in the server though MOTD
+<h1 align="center">MP3 Player v1.0</h1>
+
+<br />
+
+# :page_facing_up: Description:
+This plugin allows you to play uploaded online mp3 files to one or all players in the server though MOTD.
 
 <br />
 
@@ -9,11 +13,16 @@ amx_play2 "Name of the player" "Name of the song" "http://site.com/filename.mp3"
 
 <br />
 
-# Chat Commands:
-**/play** - Starts the mp3 file again, if you were stopped the player<br />
-**/stop** - Stops the mp3 player
+# :computer: Chat Commands:
+**/afk** - Enables AFK mode.<br />
+**/back** - Disables AFK mode.
 
 <br />
 
-# Changelog:
-    - v1.0: First Version
+# :books: Requirements:
+**amxmisc**
+
+<br />
+
+# :scroll: Changelog:
+    - v1.0: First Release.
