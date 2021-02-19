@@ -7,7 +7,7 @@ This plugin allows you to play uploaded online mp3 files to one or all players i
 
 <br />
 
-# Console Commands (Admin):
+# :computer: Console Commands (Admin):
 amx_play "Name of the song" "http://site.com/filename.mp3"<br />
 amx_play2 "Name of the player" "Name of the song" "http://site.com/filename.mp3"
 
