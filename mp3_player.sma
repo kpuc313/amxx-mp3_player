@@ -18,7 +18,7 @@
 * ============
 * This plugin allows you to play uploaded online mp3 files to one or all players in the server though MOTD.
 *
-******************************************************************
+*****************************************************************/
 
 #include <amxmodx>
 #include <amxmisc>
